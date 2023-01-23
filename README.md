@@ -1,6 +1,6 @@
 <h1 align="center"> Calculadora </h1>
 
-<p align="center">Página criada com o intuito de simular um site sobre tecnologia <br/>
+<p align="center">Aplicação de calculadora simples que tem como foco em aprender conceitos simples de Javascript. <br/>
 </p>
 
 <p align="center">
@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Página criada com o intuito de criar boas práticas nos conceitos básicos de HTML, CSS e Javascript.
 
-<!-- [Visite o projeto online](https://danrodriguezdev.github.io/TecBlog/) -->
+[Visite o projeto online](https://danrodriguezdev.github.io/App-Calculadora/)
